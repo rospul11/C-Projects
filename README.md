@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshini Pulle</h1>
 <h3 align="center">A passionate developer from UC Santa Cruz</h3>
 
-- 🔭 I’m currently working on **Music Webplayer**
+- 🔭 I’m currently working on **a Music Webplayer**
 
-- ⚡ Fun fact **I love spotify**
+- ⚡ Fun fact **I've been learning music since I was 5 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
