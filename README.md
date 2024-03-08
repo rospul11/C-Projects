@@ -5,19 +5,22 @@ I am Roshini Pulle, a dedicated Computer Science student at the University of Ca
 
 In my role, I facilitated a workshop in partnership with Google, reaching 380 students, and guided 12 individuals through a web development internship, imparting crucial design concepts. Additionally, I orchestrated a Women’s Speaker Panel, featuring accomplished speakers from MIT and leading tech companies. This experience has been immensely rewarding, allowing me to positively impact the careers of aspiring women in computer science.
 
-Education:
+**Education:**
 I am currently pursuing a Bachelor's degree in Computer Science at UC Santa Cruz, maintaining a stellar 3.85/4.0 GPA. My coursework includes a comprehensive array of subjects such as Data Structures, Algorithms, Computer Systems Design, and Entrepreneurship Academy.
 
-Skills:
+**Skills:**
 My proficiency spans a wide spectrum of programming languages, including C/C++, Python, Java, and Haskell. I am well-versed in web development technologies such as HTML/CSS, JavaScript, React, and have hands-on experience with User Experience (UX) design tools like Figma. Alongside technical skills, I bring expertise in stakeholder management, risk management, and negotiation.
 
-Work Experience:
+**Work Experience:**
 As the President of UCSC Girls Who Code, I established strategic partnerships with Google, GitHub, and local tech organizations. In my internship at Raytheon Technologies, I developed a web-based solution benefiting over 10,000 students, demonstrating my ability to lead and inspire a team of engineers.
 
-Projects:
+**Projects:**
 One of my notable projects includes a web-based Music Streaming App developed using React and JavaScript, combining functionality and user experience akin to popular music streaming platforms. I have also designed a Multi-Threaded HTTP Server in C and am actively involved in creating an iOS/Android app called Modish, integrating AI for personalized outfit suggestions.
 
-Certifications:
+**Passions:**
+I want to explore how music, health, and technology can come together to make people's lives better. I'm excited about joining a team that shares this vision and using my skills to contribute to meaningful solutions.
+
+**Certifications:**
 I hold a Diploma in Carnatic Music from the University of SiliconAndhra, showcasing my dedication to music over the past 12+ years.
 
 I am thrilled by the opportunity to contribute my skills and experiences to the dynamic world of technology, bringing a unique perspective and a commitment to empowerment. Feel free to reach out to me at rpulle@ucsc.edu or connect on LinkedIn at /in/Roshini-Pulle. 
