@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshini Pulle</h1>
-<h3 align="center">A passionate developer from UC Santa Cruz</h3>
+<h3 align="center">A Computer Science student from UC Santa Cruz</h3>
 
 - 🔭 I’m currently working on **a Music Webplayer**
 
