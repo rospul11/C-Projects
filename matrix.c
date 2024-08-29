@@ -1,7 +1,5 @@
 //-------------------------------------------------
 // Roshini Pulle
-// CRUZID: rpulle
-// 1877859
 // CSE 101 Winter 2023 
 // PA4
 // Implementation for ADT functions 
